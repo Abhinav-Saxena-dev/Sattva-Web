@@ -6,4 +6,4 @@ First, We provide the use of audio rooms, where users can join in a talk their h
 
 Second, we are proposing a virtual reality solution that includes exposure therapy, guided meditation, and posture correction. The controlled environment virtual solutions are designed to help individuals overcome their fears and phobias by gradually exposing them to different levels of difficulty in a safe and controlled virtual environment. The virtual reality experience also provides a unique and immersive way to practice meditation, which can help alleviate symptoms of anxiety and depression.
 
-Overall, our virtual reality solution offers a novel approach to addressing mental health conditions by providing a safe and immersive environment for exposure therapy, meditation, and posture correction, ultimately helping individuals overcome their fears and improve their mental health.
+Overall, our solution offers a novel approach to addressing mental health conditions by providing a safe and immersive environment for exposure therapy, meditation, and posture correction, ultimately helping individuals overcome their fears and improve their mental health.
