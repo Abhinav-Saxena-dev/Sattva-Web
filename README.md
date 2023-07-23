@@ -1,3 +1,5 @@
+![Image of Sattva Profile]([http://url/to/img.png](https://drive.google.com/uc?export=view&id=1ROWVa1nMefBt-wXb_lSZHmIbDEA_z3j-))
+
 The problem we are addressing is the growing burden of mental health conditions, including anxiety disorders, depressive disorders, and phobias, in India and around the world. The lack of access to mental health professionals and the economic burden on individuals and society further exacerbate the problem.
 
 To address this, we propose two solutions.
